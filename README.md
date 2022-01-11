@@ -1,4 +1,4 @@
-# AE-VAE-PCA-Anomaly_Detection-ML
+# AE, VAE and PCA anomaly detection in operational technology infrastructure datasets
 This repository contains the Jupyter Notebooks and Python code that were used while writing my Master Thesis paper on "Anomaly Detection in Operational Technology Infrastructures Using Artificial Neural Networks". My thesis paper looked at the following models:
 
 - Auto-Encoders (AE)
