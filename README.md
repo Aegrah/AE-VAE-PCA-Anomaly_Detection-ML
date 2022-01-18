@@ -18,6 +18,6 @@ These datasets can be requested at iTrust, Centre for Research in Cyber Security
 The creditcard fraud dataset was used to initially test the different models in order to ensure that they worked correctly. This dataset is available at:
 ```https://www.kaggle.com/mlg-ulb/creditcardfraud```
 
-Although this repository contains almost all code used for my research, I didn't go through testing all of it before pushing it to GitHub. The reason for this is that I wrote my thesis two years ago and I currently do not have an up-to-date machine learning development environment. Most of the code should still be working.
+Although this repository contains almost all code used for my research, I didn't go through testing all of it before pushing it to GitHub. The reason for this is that I wrote my thesis two years ago and I currently do not have an up-to-date machine learning development environment. Most of the code should still be working and can be used as a starting point to develop your own models.
 
 In case anyone is interested in reading my thesis, you can always contact me at ```r.f.groenewoud98@gmail.com```.
